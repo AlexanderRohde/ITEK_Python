@@ -5,6 +5,6 @@
 username = "Mynameis"
 uname = input("What is your Username? ")
 while uname != username:
-    huname = input("What is your Username? ")
+    uname = input("What is your Username? ")
 
 print("Congratulations you rembered the user name you use, dumb fuck")
